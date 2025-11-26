@@ -1,0 +1,34 @@
+{
+    "name": "Statements",
+    "confluence-page": "https://softwareone.atlassian.net/wiki/spaces/mpt/pages/6829966135/DG+Statement+Object",
+    "state-diagram": "https://www.figma.com/design/rHxTpbi2gpbZ4dmVlyeY2S/Object-Diagrams?node-id=494-1190&t=GEDlhHngghv5mFXF-0",
+    "desktop": {
+        "grid": {
+            "vendor": null,
+            "operations": null,
+            "client": null
+        },
+        "details": {
+            "vendor": null,
+            "operations": null,
+            "client": null
+        },
+        "infocard": {
+            "vendor": null,
+            "operations": null,
+            "client": null
+        }
+    },
+    "mobile": {
+        "list": {
+            "vendor": null,
+            "operations": null,
+            "client": null
+        },
+        "details": {
+            "vendor": null,
+            "operations": null,
+            "client": null
+        }
+    }
+}
